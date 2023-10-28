@@ -1,5 +1,5 @@
-# Constrained-GAN
-Use GAN to generate feasible elements in a convex set
+# Constrained Generative Model
+Generate feasible elements in a constrained convex set
 
 ## Concentric Circle Demo
 
